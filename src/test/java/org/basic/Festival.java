@@ -24,5 +24,7 @@ public class Festival {
 	private void ramzon() {
 		System.out.println("July");
 	}
-
+private void newyear() {
+	System.out.println("jan");
+}
 }
