@@ -18,5 +18,11 @@ public class Festival {
 	private void deepavali() {
 	System.out.println("November");
 	}
+	private void christmas() {
+		System.out.println("Dec");
+	}
+	private void newyear() {
+		System.out.println("jan");
+	}
 
 }
